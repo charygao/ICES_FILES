@@ -4,3 +4,10 @@
 计划3/20将代码修改一下，放到repository实现协同开发。
 
 3/20  周二
+将项目部署到了github，地址：https://github.com/demoChengqian/Time-Series
+协同开发需要参考文档：https://www.cnblogs.com/wawahaha/p/5171187.html
+将楚耀编写的tensorflow文档详细看了一下，计划明天动手实践一下。
+
+3/21  周三
+实践了tensorflow文档的内容，基本了解实现流程。
+回顾了DTW算法和逻辑回归算法。
